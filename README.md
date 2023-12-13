@@ -1,4 +1,4 @@
-# [AAAI2024] The official implementation of ChromaFusionNet (CFNet): Natural Fusion of Fine-grained Color Editing
+# [AAAI2024] The Official Implementation of ChromaFusionNet (CFNet): Natural Fusion of Fine-grained Color Editing
 
 Code is coming soon
 
