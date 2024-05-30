@@ -1,0 +1,4 @@
+opencv-python
+timm==0.4.12
+einops==0.4.1
+rich
