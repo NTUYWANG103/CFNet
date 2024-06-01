@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 # Checkpoints
-Please unzip the following zip file to project's main folder.\
+Please unzip the following zip file to project's main folder.
 
 **Google Drive**
 ```
@@ -31,7 +31,7 @@ Password: szz4
 
 # Inference
 ```
-python inference.py
+python cfnet_inference.py
 ```
 
 ## Acknowledgments
