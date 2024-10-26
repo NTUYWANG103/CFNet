@@ -42,16 +42,13 @@ This code repository is partially borrowed from [iColoriT](https://github.com/pm
 # Citation
 You can cite it as follows:
 ```
-@article{CFNet_2024,
+@inproceedings{dong2024chromafusionnet,
   title={ChromaFusionNet (CFNet): Natural Fusion of Fine-Grained Color Editing},
-  volume={38},
-  url={https://ojs.aaai.org/index.php/AAAI/article/view/27925},
-  DOI={10.1609/aaai.v38i2.27925},
-  number={2},
-  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
   author={Dong, Yi and Wang, Yuxi and Fan, Ruoxi and Ouyang, Wenqi and Shen, Zhiqi and Ren, Peiran and Xie, Xuansong},
-  year={2024},
-  month={Mar.},
-  pages={1591-1599}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={2},
+  pages={1591--1599},
+  year={2024}
 }
 ```
